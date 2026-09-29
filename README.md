@@ -1,4 +1,4 @@
-# Task 04 – Customer Segmentation Analysis
+#  Customer Segmentation Analysis
 
 ## Project Overview
 This project creates a **customer segmentation system** using **K-Means clustering**.  
