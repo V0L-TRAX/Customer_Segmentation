@@ -1,4 +1,4 @@
-#  Customer Segmentation Analysis Model
+#  Customer Segmentation Analysis
 
 ## Project Overview
 This project creates a **customer segmentation system** using **K-Means clustering**.  
